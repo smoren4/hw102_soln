@@ -1,0 +1,30 @@
+/*give your page a background color*/
+body{
+    background-color: darkcyan;
+}
+
+/*style your image element here*/
+img{
+    display: block;
+    max-width: 500px;
+    max-height:500px;
+ 
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+/*style your button element here*/
+button{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+    width: 106px;
+    height: 58px;
+    font-size: 20px;
+  
+    margin-bottom:20px;
+    background-color: lightblue;
+    border-radius:8px;
+}
