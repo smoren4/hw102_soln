@@ -19,6 +19,8 @@ var img = document.createElement("img");
 index.html file and use getElementById here*/
 var button = document.getElementById("aButn");
 
+//this is a comment
+
 /*equip your button with an event listener that calls your custom function
 whenever the button is clicked.*/
 button.addEventListener("click",generateImage);
