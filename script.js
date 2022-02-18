@@ -35,7 +35,6 @@ function generateImage(){
         randomImg = Math.floor(Math.random() * 5);
     }
     lastImg = randomImg;
-    console.log(randomImg);
     /*call the variable that is holding the img element and populate it with
         the randomly selected image from your array*/
     img.src = imageList[randomImg];
