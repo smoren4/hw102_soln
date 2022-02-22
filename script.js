@@ -39,4 +39,5 @@ function generateImage(){
         the randomly selected image from your array*/
     img.src = imageList[randomImg];
     document.body.appendChild(img);
+    
 }
