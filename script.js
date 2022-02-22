@@ -7,6 +7,7 @@ imageList[2] = "images/cute_robot.jpg";
 imageList[3] = "images/sad_doggo.jpg";
 imageList.push("images/scoob.png");
 
+//cloning
 var lastImg;
 
 //create and save an 'img' element to a variable using createElement
